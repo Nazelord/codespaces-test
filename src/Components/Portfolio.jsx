@@ -46,6 +46,7 @@ const Portfolio = () => {
         </div>
         <div className="container">
         {projectList.map((project) => (
+            // eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions
             <div className="box" key={project.title} onClick={() => handleClick(project.url)}>
             <h3>{project.title}</h3>
             <p className="small">{project.description}</p>
