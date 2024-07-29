@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Carlos Sanchez",
-  title: "Web Designer  Full Stack Dev  Robotics Enthusiast",
+  title: "Web Designer | Full Stack Dev | Robotics Enthusiast",
   email: "cjsjaen@gmail.com",
   gitHub: "https://github.com/Nazelord",
   instagram: "https://instagram.com/Nazelord",
